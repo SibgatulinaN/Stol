@@ -1,0 +1,15 @@
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\31.csproj.AssemblyReference.cache
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\31.AssemblyInfoInputs.cache
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\31.AssemblyInfo.cs
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\31.csproj.CoreCompileInputs.cache
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\bin\Debug\net6.0\31.exe
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\bin\Debug\net6.0\31.deps.json
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\bin\Debug\net6.0\31.runtimeconfig.json
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\bin\Debug\net6.0\31.dll
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\bin\Debug\net6.0\31.pdb
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\31.dll
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\refint\31.dll
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\31.pdb
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\31.genruntimeconfig.cache
+C:\Users\mehry\OneDrive\Рабочий стол\23.03.23\31\obj\Debug\net6.0\ref\31.dll
